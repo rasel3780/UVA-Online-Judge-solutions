@@ -27,7 +27,6 @@ void sol(){
 }
 
 int main(){
-    FILE;
-
+    //FILE;
     sol();
 }
